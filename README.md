@@ -1,7 +1,6 @@
 ## Nathaniel Cekay, Master of Science degree in Data Science from Eastern University 
 
 - 🔭 I’m currently working on **data science and analytics projects** to help businesses optimize decision-making.
-- 🌱 I’m currently learning **advanced machine learning techniques and cloud computing solutions**.
 - 👯 I’m looking to collaborate on **open-source data science projects and technical blog writing**.
 - 🤔 I’m looking for help with **contributing to large-scale AI-driven projects**.
 - 💬 Ask me about **data analysis, visualization, and scientific research methodologies**.
