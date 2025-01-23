@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 ## Nathaniel Cekay, Master of Science degree in Data Science from Eastern University 
 
 - 🔭 I’m currently working on **data science and analytics projects** to help businesses optimize decision-making.
@@ -11,4 +8,4 @@
 - 📫 How to reach me: [nathanielcekay.com](https://www.nathanielcekay.com) | [LinkedIn](https://linkedin.com/in/nathanielcekay) | [GitHub](https://github.com/natecekay)
 - ⚡ Fun fact: **I love exploring AI ethics and the intersection of data science with social impact.**
 
--->
+
